@@ -1,0 +1,29 @@
+header {
+
+}
+
+header-img {
+    position: fixed;
+    margin-left: auto;
+}
+
+nav-bar {
+    display: block;
+    width: 100%;
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+video {
+    position: relative;
+    align-content: center;
+}
+
+form {
+
+}
